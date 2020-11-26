@@ -47,14 +47,14 @@ namespace MainForm
             // 
             // button1
             // 
-            this.btnLogin.Font = new System.Drawing.Font("Consolas", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLogin.Location = new System.Drawing.Point(444, 12);
-            this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(150, 41);
-            this.btnLogin.TabIndex = 0;
-            this.btnLogin.Text = "로그인";
-            this.btnLogin.UseVisualStyleBackColor = true;
-            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            this.button1.Font = new System.Drawing.Font("Consolas", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(444, 12);
+            this.button1.Name = "btnLogin";
+            this.button1.Size = new System.Drawing.Size(150, 41);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "로그인";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // button2
             // 

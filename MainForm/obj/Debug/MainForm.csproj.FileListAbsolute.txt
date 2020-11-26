@@ -7,3 +7,5 @@ C:\JS\MainForm\bin\Debug\MainForm.pdb
 C:\JS\MainForm\obj\Debug\MainForm.Main.resources
 C:\JS\MainForm\obj\Debug\MainForm.exe
 C:\JS\MainForm\obj\Debug\MainForm.pdb
+C:\JS\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\JS\MainForm\obj\Debug\MainForm.Login.resources
