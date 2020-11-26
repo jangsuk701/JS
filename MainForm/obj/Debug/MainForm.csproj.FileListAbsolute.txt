@@ -1,9 +1,11 @@
+C:\JS\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\JS\MainForm\obj\Debug\MainForm.Main.resources
 C:\JS\MainForm\obj\Debug\MainForm.Properties.Resources.resources
 C:\JS\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
 C:\JS\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
 C:\JS\MainForm\bin\Debug\MainForm.exe.config
 C:\JS\MainForm\bin\Debug\MainForm.exe
 C:\JS\MainForm\bin\Debug\MainForm.pdb
-C:\JS\MainForm\obj\Debug\MainForm.Main.resources
+C:\JS\MainForm\obj\Debug\MainForm.Login.resources
 C:\JS\MainForm\obj\Debug\MainForm.exe
 C:\JS\MainForm\obj\Debug\MainForm.pdb
