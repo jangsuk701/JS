@@ -17,7 +17,13 @@ namespace MainForm
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            Login showform = new Login();
+            showform.Show();
+        }
+
+        private void btnAccount_Click(object sender, EventArgs e)
         {
 
         }
